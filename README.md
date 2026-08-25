@@ -36,7 +36,3 @@
 </p>
 
 <br><p align="center">**Check out my latest (and hottest) project:** <strong>https://floccinaucinihilipilificator.vercel.app/</strong><img src="https://media.tenor.com/HlX_Yi1keVEAAAAj/rei-rei-ayanami.gif" width="50px"></p> 
-
-<br><p align="center">​Anyways, here's my wife.</p>
-
-<p align="center"><img src="https://media1.tenor.com/m/SgM7Ho8j578AAAAC/chen-endfield.gif" width="75%" height="400px"></p>
