@@ -1,4 +1,4 @@
-<br><p align="center">Hi, I'm Evan Arganta, a Software Engineering student.<br>I build web applications, developer tools, and occasionally strange things.</p>
+<p align="center">Hi, I'm Evan Arganta, a Software Engineering student.<br>I build web applications, developer tools, and occasionally strange things.</p>
 
 <br><p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
@@ -35,12 +35,8 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
-<br><p align="center">
-<img src="https://media.tenor.com/HlX_Yi1keVEAAAAj/rei-rei-ayanami.gif" width="200px" align="center">
-</p>
+<br><p align="center">**Check out my latest (and hottest) project:** <strong>https://floccinaucinihilipilificator.vercel.app/</strong><img src="https://media.tenor.com/HlX_Yi1keVEAAAAj/rei-rei-ayanami.gif" width="50px"></p> 
 
 <br><p align="center">​Anyways, here's my wife.</p>
 
 <p align="center"><img src="https://media1.tenor.com/m/SgM7Ho8j578AAAAC/chen-endfield.gif" width="75%" height="400px"></p>
-
-<br><p align="center">**Check out my latest (and hottest) project:** <strong>https://floccinaucinihilipilificator.vercel.app/</strong> !</p>
