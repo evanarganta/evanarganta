@@ -1,4 +1,4 @@
-<p align="center">Hi, I'm Evan Arganta, a Software Engineering student.<br>I build web applications, developer tools, and intermittently strange things.</p>
+<p align="center">Hi, I'm Evan Arganta, currently studying SWE.<br>I build web applications, developer tools, and intermittently strange things.</p>
 
 <br><p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
