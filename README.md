@@ -35,4 +35,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
-<br><p align="center">**Check out my latest (and hottest) project:** <strong>https://floccinaucinihilipilificator.vercel.app/</strong><img src="https://media.tenor.com/HlX_Yi1keVEAAAAj/rei-rei-ayanami.gif" width="50px"></p> 
+<br><p align="center"><img src="https://media.tenor.com/HlX_Yi1keVEAAAAj/rei-rei-ayanami.gif" width="50px"></p>
+
+<br><p align="center">**Check out my latest (and hottest) project:** <strong>https://floccinaucinihilipilificator.vercel.app/</strong></p> 
