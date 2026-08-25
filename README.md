@@ -17,13 +17,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white" alt="Arduino">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Laragon-0E83CD?logo=laragon&logoColor=white" alt="Laragon">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" alt="XAMPP">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white" alt="Visual Studio">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
 <br><p align="center">
