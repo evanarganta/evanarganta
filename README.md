@@ -26,6 +26,12 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
-<br><p align="center"><img src="https://media.tenor.com/HlX_Yi1keVEAAAAj/rei-rei-ayanami.gif" width="50px"></p>
+<br><p align="center">
+  <img width="70px" alt="gambar" src="https://github.com/user-attachments/assets/799dc21b-8fe4-432b-8096-7f5acca3ef6f" />
+  <img width="70px" alt="gambar" src="https://github.com/user-attachments/assets/3aa15905-fcf2-4a18-a81c-95cef46c03d9" />
+  <img width="70px" alt="gambar" src="https://github.com/user-attachments/assets/7217e044-d4d2-4ecf-898e-3f6bb22e38a3" />
+  <img width="70px" alt="gambar" src="https://github.com/user-attachments/assets/a6827b81-985e-4067-8752-df234b751bba" />
+  <img width="70px" alt="gambar" src="https://github.com/user-attachments/assets/ca00728b-fc8e-4379-893e-593e5ecef729" />
+</p>
 
-<br><p align="center">**Check out my latest (and hottest) project:** <strong>https://floccinaucinihilipilificator.vercel.app/</strong></p> 
+<br><p align="center">**Check out my latest (and hottest) project:** <strong>https://floccinaucinihilipilificator.vercel.app/</strong>.</p> 
