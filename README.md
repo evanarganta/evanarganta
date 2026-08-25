@@ -1,4 +1,4 @@
-<p align="center">Hi, I'm Evan Arganta, a Software Engineering student.<br>I build web applications, developer tools, and occasionally strange things.</p>
+<p align="center">Hi, I'm Evan Arganta, a Software Engineering student.<br>I build web applications, developer tools, and intermittently strange things.</p>
 
 <br><p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
@@ -17,15 +17,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white" alt="Arduino">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white" alt="Composer">
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" alt="npm">
 </p>
 
 <p align="center">
