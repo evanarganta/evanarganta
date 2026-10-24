@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="150px" src="https://github.com/user-attachments/assets/2289be95-389f-4db0-ae8b-8204b804754e" />
+<img width="135px" src="https://github.com/user-attachments/assets/2289be95-389f-4db0-ae8b-8204b804754e" />
 
 ### Evan Arganta
 <sup><i>Software Engineering Junior @ State Vocational High School 2 Jakarta</i></sup>
@@ -30,7 +30,6 @@
 
 <br><div align="center">
 
-I build web applications, developer tools, and intermittently strange things.<br>
-<strong><i>Such as this: https://floccinaucinihilipilificator.vercel.app/.</i></strong>
+"I looked back and realized that I have missed so many things that I should have treasured."
 
 </div> 
