@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="90px" alt="gambar" src="https://github.com/user-attachments/assets/fc2adc2f-153a-4e33-a52f-710835dce60c" />
+<img width="150px" src="https://github.com/user-attachments/assets/2289be95-389f-4db0-ae8b-8204b804754e" />
 
 ### Evan Arganta
 <sup><i>Software Engineering Junior @ State Vocational High School 2 Jakarta</i></sup>
