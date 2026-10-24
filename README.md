@@ -1,4 +1,4 @@
-<div align="center">
+<br><div align="center">
 
 <img width="135px" src="https://github.com/user-attachments/assets/2289be95-389f-4db0-ae8b-8204b804754e" />
 
@@ -32,4 +32,4 @@
 
 "I looked back and realized that I have missed so many things that I should have treasured."
 
-</div> 
+</div><br>
